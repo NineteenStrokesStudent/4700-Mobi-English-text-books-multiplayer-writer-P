@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3129</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">365964fe-fcd1-4a72-9f05-1cd2b3d6edbe</dc:identifier>
+        <dc:title>Sir Apropos of Nothing</dc:title>
+        <dc:creator opf:file-as="David, Peter" opf:role="aut">Peter David</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-06-25T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+They were dark and stormy knights...and when they had their way with a helpless tavern wench one terrible evening, they had no idea that the result of that twilight brutality was going to come after them years later looking to settle the score... 
+
+ The "result's" unlikely name is Apropos: A rogue, a rascal, a scoundrel, a cheat...and those are his good points. Lame of leg but fast of wit, the only reason Apropos doesn't consider chivalry dead is because he's not yet through with it. Herewith, Sir Apropos of Nothing -- his story in the words of the knave himself. 
+
+ Apropos, all too aware of his violent and unseemly beginnings, travels to the court of the good King Runcible, with three goals in mind: to find his father, seek retribution, and line his own pockets. However, Apropos carries the most troublesome burden a would-be harbinger of chaos can bear: He may well be a hero foretold, a young man of destiny. It is not a notion that Apropos finds palatable, having very low regard for such notions as honor, selflessness, or risking one's neck. Yet when Apropos finds himself assigned as squire to the most senile knight in the court -- Sir Umbrage of the Flaming Nether Regions, whose squires tend to have a rather short life span -- Apropos is forced to rise to the occasion lest he be dragged under -- permanently. 
+
+ His difficulties are compounded when a routine mission to escort the King's daughter home after a long absence goes horribly awry. Suddenly Apropos finds himself saddled with trying to survive while dealing with a berserk phoenix, murderous unicorns, mutated harpies, homicidal warrior kings, and -- most problematic of all -- a princess who may or may not be a psychotic arsonist.  
+
+ Featuring a hero cut from cloth similar to that of such entertaining blackguards as Blackadder and Flashman, Sir Apropos of Nothing is a skewed version of classic, mythic adventure that is by turns hilarious and frightening, slapstick and serious, and filled with drop-dead laughs and drop-dead people.</dc:description>
+        <dc:publisher>Pocket Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780743412346</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <meta content="Sir Apropos of Nothing" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-02-05T20:41:33.549000+00:00" name="calibre:timestamp"/>
+        <meta content="Sir Apropos of Nothing" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

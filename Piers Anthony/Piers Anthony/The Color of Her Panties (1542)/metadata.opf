@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1542</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">db5381e7-7f9a-41bc-a2b9-54208e1b249b</dc:identifier>
+        <dc:title>The Color of Her Panties</dc:title>
+        <dc:creator opf:file-as="Anthony, Piers" opf:role="aut">Piers Anthony</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-12-07T05:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+In the fifteenth novel of his Xanth series, Piers Anthony has captured again the fantasy world loved by generations of devoted readers. Brand-new excitement and humor from the author of Question Quest, The Color of Her Panties explodes with phantasmagorical, pun-filled adventure. In the struggle for the Goblin crown, Gwenny Goblin is forced to compete with her awful half brother Gobble in a battle of the wits. To prove herself worthy, Gwenny, with her secret contact lenses, enlists the aid of Che Centaur and Jenny Elf to help her perform the tasks that will win her the chieftainship of the Goblin horde, including bringing back the fabulous egg that sits between the Roc and the hard place. But the most precious secret lies in Mela Merwoman's undergarments; in particular, their color. But Mela, Ida Human, and Okra Ogress, using Magician Humphrey's confusing advice, are stuck in a wild-goose chase around Xanth, meeting up with the likes of dragons and the Simurg, and eventually joining the Adult Conspiracy. Meanwhile, Gwenny is still on her quest for the answer to the all-important question: What color are the Merwoman's panties? With outrageous wit and fantastic escapades, The Color of Her Panties will thrill the fans who have entered before into this fabulous adventure of space and thyme, as well as new discoverers of the world of Xanth.</dc:description>
+        <dc:publisher>New York : W. Morrow, c1992.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">0688109160</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <meta content="Xanth" name="calibre:series"/>
+        <meta content="15" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2008-12-07T22:26:01+00:00" name="calibre:timestamp"/>
+        <meta content="Color of Her Panties, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

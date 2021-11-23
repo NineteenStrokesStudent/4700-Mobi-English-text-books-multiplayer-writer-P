@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6142</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">30faa271-5866-478c-8314-b20469bdc790</dc:identifier>
+        <dc:title>Patti LaBelle's lite cuisine: over 100 dishes with to-die-for taste made with to-live-for recipes</dc:title>
+        <dc:creator opf:file-as="Labelle, Patti &amp; Lancaster, Laura Randolph" opf:role="aut">Patti LaBelle</dc:creator>
+        <dc:creator opf:file-as="Labelle, Patti &amp; Lancaster, Laura Randolph" opf:role="aut">Laura Randolph Lancaster</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-04-15T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Legendary singer and *New York Times* bestselling author Patti  LaBelle reveals her mouth-watering culinary secrets for eating your way to a long and healthy life.  "Treat your body like a temple, not an amusement park."     This is the sage advice Patti LaBelle lives by, and in her new book she shares more than 100 original recipes for meals that are not only good for you but taste great, too. She also shares her own personal story of a lifetime of struggling with body image and tells the heartbreaking story of how she lost her mother to diabetes and learned recently that she, too, had the disease.    In her first cookbook, *LaBelle Cuisine*, LaBelle featured the high-style, down-home cooking she learned from the great Southern cooks in her family. But after she was diagnosed with diabetes, LaBelle had to radically change her dietary habits and food choices. With diabetic exchanges developed and approved by the American Diabetes Association and the American Dietetic Association, *Patti LaBelle's Lite Cuisine* is chock-full of the kind of recipes that made her earlier cookbook a bestselling sensation. Readers will love the wide array of healthful and heavenly dishes like "Awesome Oven-Fried Chicken," "Sensational Sloppy Joes," "Company's-Coming Crab Imperial," and "Luscious Lobster Salad." Delectable desserts include everything from "Old-Fashioned Oatmeal Raisin Cookies" to "Tastes-Like-Grandma-Made-It Banana Pudding."    One of America's most beloved performers once again creates her special brand of culinary magic. Her new, healthy, and delicious recipes are destined to make Patti's latest cookbook a staple in kitchens all across America.</dc:description>
+        <dc:publisher>Gotham</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781592400041</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Food</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-23T09:56:35.635000+00:00" name="calibre:timestamp"/>
+        <meta content="Patti LaBelle's lite cuisine: over 100 dishes with to-die-for taste made with to-live-for recipes" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Food&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

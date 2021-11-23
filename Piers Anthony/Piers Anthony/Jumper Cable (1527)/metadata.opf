@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1527</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">143b1463-c6eb-48ec-a1dc-d0c4bce72b0d</dc:identifier>
+        <dc:title>Jumper Cable</dc:title>
+        <dc:creator opf:file-as="Anthony, Piers" opf:role="aut">Piers Anthony</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-13T04:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+In the thirty-third thrilling escapade in Piers Anthony’s rousing Xanth fantasy series, an adventurous arachnid named Jumper must assume human form to save the enchanted realm from a cosmic peril.
+
+A cataclysmic battle between two all-powerful Demons has severed a mystical connection that joins Xanth to our own world. The key to restoring it is hidden within a cryptic prophecy that Jumper discovers when he is suddenly transformed from spider to man. As he sets out to discern the prophecy's meaning, he gathers about him a half dozen alluring damsels who do their best to help him solve the riddle while vying for his attentions. 
+
+But a seductive siren and her demonic consort have determined to use their wiles to lure Jumper and his lovely companions away from their urgent mission.  In a madcap adventure that is alternately harrowing and hilarious, they soon discover that danger, deception, and even true love may be found where they least expect it.
+
+In *Jumper Cable*, master storyteller Piers Anthony spins a wild and witty web of wonder that is sure to captivate fans of fantastic adventure everywhere!</dc:description>
+        <dc:publisher>Tor Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780765323514</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <meta content="Xanth" name="calibre:series"/>
+        <meta content="33" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-03-30T14:16:38.414000+00:00" name="calibre:timestamp"/>
+        <meta content="Jumper Cable" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

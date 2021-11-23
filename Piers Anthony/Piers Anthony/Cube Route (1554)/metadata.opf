@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1554</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9fa00e62-f43e-40d5-a7cc-c3c9e7344ca7</dc:identifier>
+        <dc:title>Cube Route</dc:title>
+        <dc:creator opf:file-as="Anthony, Piers" opf:role="aut">Piers Anthony</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-12-07T05:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+For nearly three decades, Piers Anthony's bestselling Xanth series has been delighting tens of thousands of fantasy fans around the world. Now, with Cube Route, the series' twenty-seventh adventure, Anthony has penned a tale that adds another dimension to this exciting saga.In the magical land of Xanth, wishes are far more than mere words. So when a Plain Jane called Cube whispers a wistful wish to be beautiful, she finds herself leading a company of colorful companions on a search for the mysterious Cube Route--a perilous path that leads to danger, adventure, and perhaps her heart's desire as well.This curious quest takes them all over Xanth, into the mythical realm of Phaze, and even to our own world, where Cube rescues a beautiful human woman from a very ugly situation, ending at last in a mysterious Counter-Xanth where things can be transformed into their opposites in the wink of an eye.A rollicking tale brimming with laughter, wonder, and enchantment, Cube Route is also a moving exploration of the beauty that dwells within all of us.</dc:description>
+        <dc:publisher>Tor Fantasy</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">0765343096</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <meta content="Xanth" name="calibre:series"/>
+        <meta content="27" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2008-12-07T22:51:34+00:00" name="calibre:timestamp"/>
+        <meta content="Cube Route" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

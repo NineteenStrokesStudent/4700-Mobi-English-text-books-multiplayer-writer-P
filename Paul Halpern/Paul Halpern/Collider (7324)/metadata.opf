@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7324</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">49195648-3974-46f6-a175-98b6ca19e893</dc:identifier>
+        <dc:title>Collider</dc:title>
+        <dc:creator opf:file-as="Halpern, Paul" opf:role="aut">Paul Halpern</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-08-03T09:37:27.227000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+**An accessible look at the hottest topic in physics and the experiments that will transform our understanding of the universe**    
+
+    The biggest news in science today is the Large Hadron Collider, the world's largest and most powerful particle-smasher, and the anticipation of finally discovering the Higgs boson particle. But what is the Higgs boson and why is it often referred to as the God Particle? Why are the Higgs and the LHC so important? Getting a handle on the science behind the LHC can be difficult for anyone without an advanced degree in particle physics, but you don't need to go back to school to learn about it. In *Collider*, award-winning physicist Paul Halpern provides you with the tools you need to understand what the LHC is and what it hopes to discover.            Comprehensive, accessible guide to the theory, history, and science behind experimental high-energy physics      Explains why particle physics could well be on the verge of some of its greatest breakthroughs, changing what we think we know about quarks, string theory, dark matter, dark energy, and the fundamentals of modern physics      Tells you why the theoretical Higgs boson is often referred to as the God particle and how its discovery could change our understanding of the universe      Clearly explains why fears that the LHC could create a miniature black hole that could swallow up the Earth amount to a tempest in a very tiny teapot      "Best of 2009 Sci-Tech Books (Physics)"*-Library Journal*      "Halpern makes the search for mysterious particles pertinent and exciting by explaining clearly what we don't know about the universe, and offering a hopeful outlook for future research."-*Publishers Weekly*      Includes a new author preface, "The Fate of the Large Hadron Collider and the Future of High-Energy Physics"          
+
+    The world will not come to an end any time soon, but we may learn a lot more about it in the blink of an eye. Read *Collider* and find out what, when, and how.</dc:description>
+        <dc:publisher>Wiley</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780470286203</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Science</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-10T09:34:39.889000+00:00" name="calibre:timestamp"/>
+        <meta content="Collider" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Science&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

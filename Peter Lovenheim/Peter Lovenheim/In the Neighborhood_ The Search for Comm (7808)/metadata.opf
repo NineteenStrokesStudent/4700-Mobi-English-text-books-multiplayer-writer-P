@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7808</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c9d03a8c-95ab-4e3f-b149-f762a6f2c6c7</dc:identifier>
+        <dc:title>In the Neighborhood: The Search for Community on an American Street, One Sleepover at a Time</dc:title>
+        <dc:creator opf:file-as="Lovenheim, Peter" opf:role="aut">Peter Lovenheim</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-04-06T17:46:38.452000+00:00</dc:date>
+        <dc:description>&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;
+&lt;p&gt;Social history reporting can get dull in the abstract; happily, journalist and family man Lovenheim (Portrait of a Burger as a Young Calf) makes a personal project of his investigation into the disappearance of community in suburban American, learning about the residents of his suburban Rochester, N.Y. street by sleeping over at their houses (his impetus was a murder-suicide on the street that helped reveal the extent to which his neighbors remained strangers). Throughout, Lovenheim's writing is genteel and elegantly detailed, revealing much about his subjects-issues of class, relationships, likes and gripes, obsessions and everyday struggles-that would be easy to miss in broad cultural assessments. His project also exposes the surprising variety of people in a neighborhood that seems, at first glance, a homogenous group of upper-middle-class professionals. Using the sleepover as an innovative sociological lens, Lovenheim provides a smart, from-the-front-lines update on Robert Putnam's suburban-alienation expose Bowling Alone, taking a personal look at what Americans tend to lose by "going about their lives largely detached from those living around them." &lt;br /&gt;
+Copyright © Reed Business Information, a division of Reed Elsevier Inc. All rights reserved. 
+&lt;/p&gt;
+
+&lt;h3&gt;From&lt;/h3&gt;
+&lt;p&gt;After a tragic murder-suicide in his neighborhood, Lovenheim feels compelled to learn if closer relationships among neighbors might have saved a woman from death. The cultural study that follows is as much about sociology as it is about simple friendship as Lovenheim wonders why people can live side-by-side and know literally nothing about each other. He engages in long conversations both with those he has known (at least casually) for years and others he has never met. A retired doctor, harried real-estate agent, workaholic consultant, pathologist, radiologist fighting cancer, dog walkers, and others allow him into their homes and, at least a little bit, their hearts. He meets families and pets and witnesses daily routines, asking repeatedly just what it is that makes a place a home and a street more than merely an address. He reaches out and finds others also searching for connection and longing for what used to be. Lovenheim advances ideas about isolation in the modern world, and why a welcoming front porch is needed now more than ever. --Colleen Mondor 
+&lt;/p&gt;</dc:description>
+        <dc:publisher>Penguin</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780399535710</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Non-fiction</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-11-22T17:34:49.771000+00:00" name="calibre:timestamp"/>
+        <meta content="In the Neighborhood: The Search for Community on an American Street, One Sleepover at a Time" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Non-fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

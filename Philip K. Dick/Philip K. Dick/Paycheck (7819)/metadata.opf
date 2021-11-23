@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7819</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5801b2c6-8e5b-4323-8e82-58f1de1fe67f</dc:identifier>
+        <dc:title>Paycheck</dc:title>
+        <dc:creator opf:file-as="Dick, Philip K." opf:role="aut">Philip K. Dick</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-10-14T08:29:06.263000+00:00</dc:date>
+        <dc:description>&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;
+&lt;p&gt;The moral and the atmosphere of the recent Paramount Pictures film &lt;em&gt;Paycheck&lt;/em&gt; differ significantly from those in the original short story performed here—a fact obscured by the movie-poster packaging and one that might confuse listeners. Jennings, a mechanic, signs on at Retherick Construction, agreeing to be paid richly on the condition that his memory will be wiped clean of everything he did after he completes his two years of service. When he awakes, his memory erased, he discovers that he had declined the money in favor of seven seemingly random items which he must use to avoid the Special Police, who are investigating Retherick Construction. Narrator Dullea does a fine job of evoking the story's tension as well as Jennings's puzzlement over his situation. However, he lends the story's one female character a saccharine, whispery voice that detracts from the narration. Although this audio adaptation may please fans of the movie who are interested in seeing how the original story has been altered for the silver screen, those looking for an introduction to the author's works would do better to pick up the collection on which this audio is based, &lt;em&gt;Paycheck: And Other Classic Stories&lt;/em&gt;. &lt;br /&gt;
+Copyright © Reed Business Information, a division of Reed Elsevier Inc. All rights reserved. 
+&lt;/p&gt;
+
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p&gt;PAYCHECK, originally written as a short story by Philip K. Dick and first published in 1953, centres on an electrician who wakes up to discover his employer has erased his memory of the past two years -- as a security measure. When he tries to collect his paycheck, he finds he has previously signed a release replacing the money with a bag of random objects. Previous film adaptations of Dick's short stories have included the box office smash hits MINORITY REPORT, TOTAL RECALL and BLADE RUNNER, released shortly after Dick died in 1982. 
+&lt;/p&gt;</dc:description>
+        <dc:publisher>Gollancz</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780575075856</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Science-Fiction</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-11-14T08:26:14.739000+00:00" name="calibre:timestamp"/>
+        <meta content="Paycheck" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Science-Fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

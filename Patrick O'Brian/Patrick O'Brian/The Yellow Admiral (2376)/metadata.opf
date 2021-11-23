@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2376</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">611aa848-ddf0-441a-aa6a-cad188fad233</dc:identifier>
+        <dc:title>The Yellow Admiral</dc:title>
+        <dc:creator opf:file-as="O'Brian, Patrick" opf:role="aut">Patrick O'Brian</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1996-06-30T03:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Patrick O'Brian's Aubrey-Maturin tales are widely acknowledged to be the greatest series of historical novels ever written. To commemorate the 40th anniversary of their beginning, with Master and Commander, these evocative stories are being re-issued in paperback with smart new livery. This is the eighteenth book in the series.  The Yellow Admiral -- the eighteenth novel in the sequence hailed as the greatest series of historical novels ever written -- 
+
+SUMMARY:
+At last! Jack Aubrey and Stephen Maturin are back as Patrick O'Brian provides his indomitably loyal fans with another adventure, this one by land as well as by sea. Lucky Jack Aubrey finds himself not so lucky as his troubles amount ashore, his prospects of admiralty dimmed and Sophie's affection waning. At sea, he fares little better: in the storms off Brest he captures a French privateer ladden with gold and ivory at the expense of missing a signal and deserting his post. And worst of all, in the spring of 1814, peace breaks out... Fortunately, Maturin returns from a mission in Chile with news that may help restore Aubrey to good favor with both his beloved navy and wife. Then, off to Gibraltar: Napoleon has escaped from Elba. The Yellow Admiral is a change of pace, a reversion to the themes of the earlier novels in the Aubrey/Maturin series. Much of the story takes place on land, giving scope to O'Brian's fascination with the landscape, physical and social, of early nineteenth-century England. In vivid glimpses of various rural pursuits, and nuanced observation of politics and domestic arrangements, O'Brian proves himself ever more surely to be the heir of Jane Austen. Not to say there aren't some rousing and bloody sea-battles!</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780006499640</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Historical</dc:subject>
+        <meta content="Aubrey-Maturin" name="calibre:series"/>
+        <meta content="18" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2009-12-09T21:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Yellow Admiral, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Historical&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

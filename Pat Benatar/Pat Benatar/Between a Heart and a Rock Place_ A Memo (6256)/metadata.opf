@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6256</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">53d42e9e-dfd7-4b37-b3c8-090b81166f0b</dc:identifier>
+        <dc:title>Between a Heart and a Rock Place: A Memoir</dc:title>
+        <dc:creator opf:file-as="Benatar, Pat" opf:role="aut">Pat Benatar</dc:creator>
+        <dc:creator opf:file-as="Benatar, Pat" opf:role="aut">Patsi Bale Cox</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-15T20:15:32.553000+00:00</dc:date>
+        <dc:description>SUMMARY:
+For more than thirty years, Pat Benatar has been one of the most iconic women in rock music, with songs like "Heartbreaker," "Hit Me with Your Best Shot," and "Love Is a Battlefield" becoming anthems for multiple generations of fans. Now, in this intimate and uncompromising memoir, one of the bestselling female rock artists of all time shares the story of her extraordinary career, telling the truth about her life, her struggles, and how she won things—her way.   From her early days in the New York club scene of the 1970s to headlining sold-out arena tours, Benatar offers a fascinating account of a life spent behind the microphone. As the first female artist ever to be played on MTV, she speaks candidly about the realities of breaking into the boys' club of rock and roll at a time when people everywhere still believed a woman's only place in popular music was as a girlfriend, a groupie, or a sex symbol. And though her fiery edge and aggressive swagger produced instant success, they also led to fights over her image that would linger for years to come.   Going backstage and into the studio, Benatar sets the record straight about how her music evolved, illustrating the visionary role that her guitarist, producer, and eventual husband, Neil "Spyder" Giraldo, played in combining her classically trained voice with razor-sharp guitar to create her unique hard-rock sound. Together they formed a musical and spiritual bond that would last a lifetime, helping her stay true to herself while avoiding the pitfalls and excesses of rock stardom.   Written with the attitude and defiance that embodies Pat Benatar's music, Between a Heart and a Rock Place is a rock-and-roll story unlike any other, a remarkable tale of playing by your own rules, even if that means breaking a few of theirs.</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061953774</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Autobiography</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-23T20:14:48.286000+00:00" name="calibre:timestamp"/>
+        <meta content="Between a Heart and a Rock Place: A Memoir" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Autobiography&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

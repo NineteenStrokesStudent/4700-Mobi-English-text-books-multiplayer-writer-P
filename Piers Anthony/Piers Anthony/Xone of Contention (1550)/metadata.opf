@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1550</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6e20b844-3cd1-43f0-a78d-8e3f0d90dd5a</dc:identifier>
+        <dc:title>Xone of Contention</dc:title>
+        <dc:creator opf:file-as="Anthony, Piers" opf:role="aut">Piers Anthony</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-12-07T05:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+New York Times bestselling author of Zombie Lover A wild and wonderful new magical adventure that leads from Xanth to Earth - and back again! A cataclysmic cloud hangs over the enchanted land of land of Xanth. Three courageous couples must venture into the O-Xone, a cybernetic interface between Xanth and our own world, to rescue the enchanted realm from destruction. A xany new fantasy xaga from the Master of Merriment, Xone of Contention is chock-filled with danger, excitement and xillions of laughs! After a year filled with harrowing adventures, all Breanna of the Black Wave and her newfound love Justin Tree want is a little time to get to know each other better, and explore the wonders of the enchanted land of Xanth. But their incipient idyll is soon shattered by a stunning discovery. A climatic catastrophe is causing a massive meltdown that threatens to inundate the ancient forests of Xanth. The only way to avert this dire disaster is to undertake a voyage into the distant mists of the past, to find the moment when this ghastly greenhouse effect began. And the only people who can safely make that journey are those unaffected by Xanth's magic - normal, ordinary humans from our own world. So Breanna and Justin turn for help to the Demon X(A/N)th (a.k.a. Nimby) and his lovely consort Chlorine. Together, they devise a daring plan. Making use of the O-Xone, a magical computer network that links the worlds of Xanth and Earth, Nimby and Chlorine make contact with Pia and Edsel, a young couple from Earth who are working on a Xanth game, and arrange to exchange bodies with them. But an unexpected surprise awaits them on their arrival. The Demon Earth has challenged the Demon Xanth to a deadly duel for the highest possible stakes - dominion over both worlds. While Pia and Edsel range through the farthest reaches of time and space to save Xanth from destruction, Nimby must learn to live by the strange rules of our world, and defeat his ancient enemy without the benefit of his own awesome powers. Brimming with magic, merriment, laughter and love, Xone of Contention is a rousing new fantasy saga in the grand Xanth tradition.</dc:description>
+        <dc:publisher>Tor Fantasy</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">0812555236</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <meta content="Xanth" name="calibre:series"/>
+        <meta content="23" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2008-12-07T22:45:08+00:00" name="calibre:timestamp"/>
+        <meta content="Xone of Contention" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5995</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">18cda503-acfd-48da-b374-3c9866849e48</dc:identifier>
+        <dc:title>The Great Bazaar and Other Stories</dc:title>
+        <dc:creator opf:file-as="Brett, Peter V." opf:role="aut">Peter V. Brett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-15T04:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Humanity has been brought to the brink of extinction. Each night, the world is overrun by demons--bloodthirsty creatures of nightmare that have been hunting and killing humanity for over 300 years. A scant few hamlets and half-starved city-states are all that remain of a once proud civilization, and it is only by hiding behind wards, ancient symbols with the power to repel the demons, that they survive. A handful of Messengers brave the night to keep the lines of communication open between the increasingly isolated populace.But there was a time when the demons were not so bold. A time when wards did more than hold the demons at bay. They allowed man to fight back, and to win. Messenger Arlen Bales will search anywhere, dare anything, to return this magic to the world.Abban, a merchant in the Great Bazaar of Krasia, purports to sell everything a man's heart could desire, including, perhaps, the key to Arlen's quest.In addition to the title novelette, The Great Bazaar and Other Stories contains a number of scenes not included in The Painted Man (published in the US as The Warded Man) as well as a glossary and a grimoire, making it an essential guide to one of the most exciting epic fantasy series currently being published.</dc:description>
+        <dc:publisher>Subterranean</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781596062894</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <meta content="Demon Trilogy" name="calibre:series"/>
+        <meta content="4" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-06-28T13:06:02.826000+00:00" name="calibre:timestamp"/>
+        <meta content="Great Bazaar and Other Stories, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

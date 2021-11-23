@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7807</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f540c4bc-6dca-44aa-b64f-923da7bef023</dc:identifier>
+        <dc:title>What Alice Knew: A Most Curious Tale of Henry James &amp; Jack the Ripper</dc:title>
+        <dc:creator opf:file-as="Cohen, Paula Marantz" opf:role="aut">Paula Marantz Cohen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-06T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+ 
+ &lt;h3&gt;From &lt;/h3&gt;
+ &lt;div&gt;
+ At the request of Scotland Yard, American philosopher William James, an expert in the science of the mind, travels to London to assist in solving the Jack the Ripper case. Once in London, William has access to the evidence collected at the crime scenes, and he travels with Inspector Abberline to interview witnesses. He then shares the particulars of the case with his brother, novelist Henry, and his sister, Alice, who is bedridden but feels she can still contribute to the identification of the madman. The story is told from multiple points of view, and Cohen seamlessly blends fact and fiction into fascinating looks at late-nineteenth-century London, the Jack the Ripper case, and the lives of the James siblings. In addition, she weaves in provocative details about the philosophy, literature, and art of the era and makes room for cameo appearances by such real-life figures as Oscar Wilde, John Singer Sargent, and Walter Sickert, once thought a suspect in the Ripper killings. For fans of historical fiction as well as historical mysteries. --Sue O'Brien
+ 
+ &lt;/div&gt;
+ &lt;h3&gt;Product Description&lt;/h3&gt;
+ &lt;div&gt;
+ &lt;p&gt;"A marvelously rich and intelligent read, atmospheric, witty, irreverent, and not least a sharply perceptive portrait of those three extraordinary Jameses."&lt;br&gt; -John Banville, author of &lt;i&gt;The Infinities&lt;/i&gt;&lt;/p&gt; &lt;p&gt;&lt;b&gt;&lt;i&gt;Under Certain Circumstances, No One Is More Suited to Solving a Crime than a Woman Confined to Her Bed&lt;/i&gt;&lt;/b&gt;&lt;/p&gt; &lt;p&gt;An invalid for most her life, Alice James is quite used to people underestimating her. And she generally doesn't mind. But this time she is not about to let things alone. Yes, her brother Henry may be a famous author, and her other brother William a rising star in the new field of psychology. But when they all find themselves quite unusually involved in the chase for a most vile new murderer-one who goes by the chilling name of Jack the Ripper-Alice is certain of two things:&lt;/p&gt; &lt;p&gt;No one could be more suited to gather evidence about the nature of the killer than her brothers. But if anyone is going to correctly examine the evidence and solve the case, it will have to be up to her.&lt;/p&gt; &lt;p&gt;&lt;b&gt;Praise for Paula Marantz Cohen&lt;/b&gt;&lt;/p&gt; &lt;p&gt;"Cohen's wit is sharp, smart, and satirical, and her characterizations are vividly on target."&lt;br&gt;&lt;i&gt;-San Francisco Chronicle&lt;/i&gt;&lt;/p&gt;
+ 
+ &lt;/div&gt;
+&lt;/div&gt;</dc:description>
+        <dc:publisher>Sourcebooks, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781402243554</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Mystery:Historical</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-31T03:29:39.912000+00:00" name="calibre:timestamp"/>
+        <meta content="What Alice Knew: A Most Curious Tale of Henry James &amp; Jack the Ripper" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Mystery:Historical&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

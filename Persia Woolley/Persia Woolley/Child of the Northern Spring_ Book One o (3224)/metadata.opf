@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3224</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ad1e20e0-01e1-4c37-b236-ab913ddc540d</dc:identifier>
+        <dc:title>Child of the Northern Spring: Book One of the Guinevere Trilogy</dc:title>
+        <dc:creator opf:file-as="Woolley, Persia" opf:role="aut">Persia Woolley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-15T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+**The story of a queen who deserves to become a legend-a startlingly original tale of Arthur &amp; Guinevere** 
+
+Often portrayed as spoiled, in Persia Woolley's hands Guinevere comes alive as a high-spirited, passionate woman. When she is chosen by Arthur to be his wife, Guinevere's independence wars with her family loyalty. As the wedding approaches and hints of rebellion abound, she learns that the old gods are in revolt against the new Christian church, and that scattered kingdoms are stirring from their uneasy peace. This is Arthurian epic at its best, filled with romance, adventure, authentic historical detail, and a landscape alive with the mystery of Britain in the Dark Ages. "This is truly original. As a re-creation of the legend in a version closer to the realities, it's far better than anything else I've read." -Geoffrey Ashe, author of *The Discovery of King Arthur* "This richly detailed novel is romantic, its characters are vivdly drawn, and Woolley's clear styles flows as smoothly as her unfolding story." -Morgan Llywelyn, author of *Lion of Ireland *and *The Horse Goddess.*</dc:description>
+        <dc:publisher>Sourcebooks Inc</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781402245220</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <meta content="Guinevere Trilogy" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-06-10T09:23:49.408000+00:00" name="calibre:timestamp"/>
+        <meta content="Child of the Northern Spring: Book One of the Guinevere Trilogy" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 2, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

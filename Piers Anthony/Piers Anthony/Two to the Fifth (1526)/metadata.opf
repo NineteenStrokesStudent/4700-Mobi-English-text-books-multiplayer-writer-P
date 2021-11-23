@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1526</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">85e49172-8afe-4c0e-be1d-caf98769a1ab</dc:identifier>
+        <dc:title>Two to the Fifth</dc:title>
+        <dc:creator opf:file-as="Anthony, Piers" opf:role="aut">Piers Anthony</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-09-29T04:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+The future of Xanth is in frightful peril. A powerful magical bird named Ragna Roc has embarked on a campaign to become absolute ruler of that mystical realm. Those who swear loyalty to him are spared. The rest have simply disappeared.So powerful are Ragna’s sorceries that even the Good Magician Humfrey dares not confront him directly. Instead he enlists Cyrus the Cyborg, a handsome half-human playwright with little knowledge of the world, in a stealthy subterfuge. Cyrus must assemble a troupe of traveling players to attract Ragna’s interest. And hidden in disguise among the bevy of beautiful young actresses are the young princesses, Melody, Harmony, and Rhythm, whose magics might just be a match for the evil bird.But Ragna has planted a spy in the midst of the troupe, one who knows their deepest secrets, including the true nature of Cyrus’s forbidden love for one of the young princesses. Only a mysterious child called Kadence, and a cryptic clue — “Two to the Fifth" — may give the companions the edge they need to defeat Ragna’s dictatorial dreams.Brimming with passion and merriment, drama and deception, Piers Anthony’s thirty-second Xanth fantasy is a pun-packed performance sure to provoke applause and ovations from the series’ myriad fans.</dc:description>
+        <dc:publisher>Tor Fantasy</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780765358943</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <meta content="Xanth" name="calibre:series"/>
+        <meta content="32" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-03-30T14:16:31.898000+00:00" name="calibre:timestamp"/>
+        <meta content="Two to the Fifth" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

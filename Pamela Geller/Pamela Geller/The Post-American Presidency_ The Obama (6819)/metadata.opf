@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6819</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f4bf0315-8cea-4f4f-b0d5-1a3b45d7a876</dc:identifier>
+        <dc:title>The Post-American Presidency: The Obama Administration's War on America</dc:title>
+        <dc:creator opf:file-as="Geller, Pamela &amp; Spencer, Robert &amp; Bolton, John" opf:role="aut">Pamela Geller</dc:creator>
+        <dc:creator opf:file-as="Geller, Pamela &amp; Spencer, Robert &amp; Bolton, John" opf:role="aut">Robert Spencer</dc:creator>
+        <dc:creator opf:file-as="Geller, Pamela &amp; Spencer, Robert &amp; Bolton, John" opf:role="aut">John Bolton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-15T09:01:28.188000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Popular conservative blogger Pamela Geller and *New York Times *bestselling author Robert Spencer sound a wake-up call for Americans to stop the Obama administration from limiting our hard-won freedoms, silencing our democratic voices, and irreparably harming America for generations to come. 
+
+America is being tested in a way that she has never been tested before. Since taking the oath of office in January 2009, President Barack Obama has cheered our enemies and demoralized our allies. He is hard at work "remaking" America by destroying the free-market system and nationalizing major segments of our economy, demonizing dissent and restricting freedom of speech, turning against our longtime friends, and above all, subjecting us to the determinations of foreign authorities. 
+
+In this timely and urgent battle cry, Pamela Geller, founder of the widely popular website www.AtlasShrugs.com, and *New York Times *bestselling author Robert Spencer team up to expose the Obama administration’s destructive agenda—largely ignored by the mainstream media—and rally Americans to protect the sovereignty of a country that is under siege by the highest levels of its own government. As Americans see their paychecks shrinking every day, Obama ignores our forefathers’ founding principle: individual rights. Instead, he seeks to level the playing field—to transform both the global and national landscape in favor of our enemies—even if it means cutting America off at the knees. He envisions himself as more than just a president of the United States, but as a shaper of the new world order, an internationalist energetically laying the groundwork for global government: the president of the world. 
+
+ 
+
+A vital guide to helping conservatives prepare for the tough battles ahead, *The Post-American Presidency *critically examines the Obama administration’s ominous and revealing moves against our basic freedoms, particularly as he seizes control of the three engines of the American economy: health care, energy, and education. The Shining City on a Hill has gone dark. But America is not dead. The time is NOW to stand up and fight.</dc:description>
+        <dc:publisher>Simon &amp; Schuster</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781439189306</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Politics</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-29T08:59:17.259000+00:00" name="calibre:timestamp"/>
+        <meta content="Post-American Presidency: The Obama Administration's War on America, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Politics&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

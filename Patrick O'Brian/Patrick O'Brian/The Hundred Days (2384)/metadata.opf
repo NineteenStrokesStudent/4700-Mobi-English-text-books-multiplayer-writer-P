@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2384</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8c5ae987-5caa-47ba-bb12-e2bfe8d880f0</dc:identifier>
+        <dc:title>The Hundred Days</dc:title>
+        <dc:creator opf:file-as="O'Brian, Patrick" opf:role="aut">Patrick O'Brian</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-02-28T13:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+The year is 1815, and Europe's most unpopular (not to mention tiniest) empire-builder has escaped from Elba. In The Hundred Days, it's up to Jack Aubrey--and surgeon-cum-spymaster Stephen Maturin--to stop Napoleon in his tracks. How? For starters, Aubrey and his squadron have been dispatched to the Adriatic coast, to keep Bonapartist shipbuilders from beefing up the French navy. Meanwhile, one Sheik Ibn Hazm is fomenting an Islamic uprising against the Allies. The only way to halt this maneuver is to intercept the sheik's shipment of gold--because in the Napoleonic era, as in our own, even the most ardent of mercenaries requires a salary. The Hundred Days is the 19th (and, we are told, the penultimate) installment of O'Brian's epic. Like many of its predecessors, it features a fairly swashbuckling plot, complete with cannon fire, exotic disguises, and Aubrey's suspenseful, slow-motion pursuit of an Algerian xebek. Yet it never turns into a mere exercise in Hornblowerism. Partly this is due to O'Brian's delicate touch with character--the relationship between extroverted Aubrey and introverted Maturin has deepened with each book, and even Aubrey's reunion with his childhood companion Queenie Keith is full of novelistic nuance: "They sat smiling at one another. An odd pair: handsome creatures both, but they might have been of the same sex or neither." Nor does the author focus too exclusively on his dynamic duo. Indeed, The Hundred Days is very much a chronicle of a floating community, which Maturin describes as "his own village, his own ship's company, that complex entity so much more easily sensed than described: part of his natural habitat." Finally, O'Brian shows his usual expertise in balancing the great events with the most minuscule ones. Other authors have written about battles at sea, and still others have recorded the rapid rise and fall of Napoleon's fortunes after his escape from confinement. But who else would give equal time--and an equal charge of delight--to Maturin's discovery of an anomalous nuthatch? --James Marcus</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780002257893</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Historical</dc:subject>
+        <meta content="Aubrey-Maturin" name="calibre:series"/>
+        <meta content="19" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-21T21:29:24.183000+00:00" name="calibre:timestamp"/>
+        <meta content="Hundred Days, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Historical&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

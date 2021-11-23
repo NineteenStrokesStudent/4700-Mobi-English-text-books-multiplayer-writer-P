@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5997</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2e653d58-8c80-4340-9429-97bde5b5004b</dc:identifier>
+        <dc:title>The Desert Spear</dc:title>
+        <dc:creator opf:file-as="Brett, Peter V." opf:role="aut">Peter V. Brett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-15T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+ The sun is setting on humanity. The night now belongs to voracious demons that arise as the sun sets, preying upon a dwindling population forced to cower behind ancient and half-forgotten symbols of power. These wards alone can keep the demons at bay, but legends tell of a Deliverer: a general—some would say prophet—who once bound all mankind into a single force that defeated the demons. Those times, if they ever existed, are long past. The demons are back, and the return of the Deliverer is just another myth . . . or is it?Out of the desert rides Ahmann Jardir, who has forged the warlike desert tribes of Krasia into a demon-killing army. He has proclaimed himself Shar’Dama Ka, the Deliverer, and he carries ancient weapons—a spear and a crown—that give credence to his claim. Sworn to follow the path of the first Deliverer, he has come north to bring the scattered city-states of the green lands together in a war against demonkind—whether they like it or not.    But the northerners claim their own Deliverer. His name was Arlen, but all know him now as the Warded Man: a dark, forbidding figure whose skin is tattooed with wards so powerful they make him a match for any demon. The Warded Man denies that he is the Deliverer, but his actions speak louder than words, for he teaches men and women to face their fears and stand fast against the creatures that have tormented them for centuries. Once the Shar’Dama Ka and the Warded Man were friends, brothers in arms. Now they are fierce adversaries. Caught between them are Renna, a young woman pushed to the edge of human endurance; Leesha, a proud and beautiful healer whose skill in warding surpasses that of the Warded Man himself; and Rojer, a traveling fiddler whose uncanny music can soothe the demons—or stir them into such frenzy that they attack one another.      Yet as old allegiances are tested and fresh alliances forged, all are blissfully unaware of the appearance of a new breed of demon, more intelligent—and deadly—than any that have come before.</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780345503817</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <meta content="Demon Trilogy" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-17T21:10:45.296000+00:00" name="calibre:timestamp"/>
+        <meta content="Desert Spear, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

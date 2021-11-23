@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1709</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4a7b7273-a92a-4f86-a892-268f2696cbee</dc:identifier>
+        <dc:title>Skippy Dies: A Novel</dc:title>
+        <dc:creator opf:file-as="Murray, Paul" opf:role="aut">Paul Murray</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-15T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Why does Skippy, a fourteen-year-old boy at Dublin’s venerable Seabrook College, end up dead on the floor of the local doughnut shop?
+
+
+
+Could it have something to do with his friend Ruprecht Van Doren, an overweight genius who is determined to open a portal into a parallel universe using ten-dimensional string theory?
+
+
+
+Could it involve Carl, the teenage drug dealer and borderline psychotic who is Skippy’s rival in love?
+
+
+
+Or could the Automator”the ruthless, smooth-talking headmaster intent on modernizing the schoolhave something to hide?
+
+
+
+Why Skippy dies and what happens next is the subject of this dazzling and uproarious novel, unraveling a mystery that links the boys of Seabrook College to their parents and teachers in ways nobody could have imagined. With a cast of characters that ranges from hip-hop-loving fourteen-year-old Eoin MC Sexecutioner” Flynn to basketballplaying midget Philip Kilfether, packed with questions and answers on everything from Ritalin, to M-theory, to bungee jumping, to the hidden meaning of the poetry of Robert Frost, *Skippy Dies *is a heartfelt, hilarious portrait of the pain, joy, and occasional beauty of adolescence, and a tragic depiction of a world always happy to sacrifice its weakest members. As the twenty-first century enters its teenage years, this is a breathtaking novel from a young writer who will come to define his generation.</dc:description>
+        <dc:publisher>Faber &amp; Faber</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780865479432</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Humor</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-06T23:27:18.135000+00:00" name="calibre:timestamp"/>
+        <meta content="Skippy Dies: A Novel" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Humor&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6832</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e329a2bc-dbac-4cfd-980b-d7468ca660f1</dc:identifier>
+        <dc:title>Black Is the New White</dc:title>
+        <dc:creator opf:file-as="Mooney, Paul &amp; Chappelle, Dave" opf:role="aut">Paul Mooney</dc:creator>
+        <dc:creator opf:file-as="Mooney, Paul &amp; Chappelle, Dave" opf:role="aut">Dave Chappelle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-20T09:18:04.020000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+**A fascinating and fearless memoir from an enduring comedy genius -- the legendary, controversial, inimitable Paul Mooney.**
+
+Most comedians tell jokes. Paul Mooney tells the truth. And for more than forty years -- whether writing for Richard Pryor and *Saturday Night Live*, creating *In Living Color's* Homey D. Clown and *Chappelle's Show's* Negrodamus, or performing stand-up to sold-out crowds around the country -- he's been provocative, incisive, and always absolutely hilarious.
+
+*Black Is the New White* is an unapologetically candid memoir from a talent whose influence has ranged far wider than his fame -- mostly by his own design. As head writer for *The Richard Pryor Show*, he helped tear down racial barriers and change the course of comedy. He helped Robin Williams and Sandra Bernhard break into show business. He paved the way for superstars like Eddie Murphy. And at every turn he's shunned the easy set-up and punch line in favor of comedy that's indisputably real and raw, reflecting the reality of race issues in America even when it's generated outrage.
+
+While other stars soared only to crash and burn, Paul Mooney has stayed chiefly behind the scenes, and he's got a lifetime of stories to show for it. Few have witnessed as much comedy history as Mooney; even fewer could recount it with such riotous honesty and depth of insight. He reveals the truth about his celebrated partnership with the brilliant, self-destructive Richard Pryor, from their first meeting to the very last joke, and reflects on some of his most notorious moments, including organizing a performers' strike on the iconic Comedy Store and publicly giving up the n-word in his act after Michael Richards's onstage outbursts. Decades ago, Paul Mooney set out not just to make audiences laugh but to make them think. *Black Is the New White* is the blisteringly funny, no-holds-barred story of how he continues to succeed wildly at both.</dc:description>
+        <dc:publisher>Simon and Schuster</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781416587958</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Autobiography</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-29T09:17:43.618000+00:00" name="calibre:timestamp"/>
+        <meta content="Black Is the New White" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Autobiography&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
